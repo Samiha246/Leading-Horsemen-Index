@@ -27,5 +27,5 @@ Explore the Leading Horsemen Index, including its methodology, rankings, metrics
 [Visit the Leading Horsemen Index Website](https://preview--leading-horsemen-index.lovable.app/about-index)
 
 ## 5. Methodology For Index Creation
-Available upon request 
+Available in the GitHub folder 
 
